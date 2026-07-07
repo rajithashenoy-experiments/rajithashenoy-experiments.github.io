@@ -11,7 +11,7 @@ date: 2026-07-07
 
 ## 1. Why I started thinking about this
 
-Not long ago, we measured engineering productivity largely by our ability to implement software. Every improvement in tooling—better IDEs, frameworks, CI/CD, cloud infrastructure—was ultimately about reducing the cost of implementation.
+Not long ago, we measured engineering productivity largely by our ability to implement software. Every improvement in tooling better IDEs, frameworks, CI/CD, cloud infrastructure was ultimately about reducing the cost of implementation.
 
 Generative AI changes that equation.
 
