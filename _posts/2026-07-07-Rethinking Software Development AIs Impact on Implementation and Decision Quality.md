@@ -247,4 +247,3 @@ But I believe it starts by asking a different question:
 
 ---
 
-*Originally published on [Confluence](https://autodesk.atlassian.net/wiki/spaces/~shenoyr/blog/2026/07/07/942541981/Rethinking+Software+Development+AI+s+Impact+on+Implementation+and+Decision+Quality).*
