@@ -8,7 +8,7 @@ permalink: /about/
 
 Hi, I'm an Engineering Manager with over 16 years of experience in the software industry.
 
-Over the years, I've had the opportunity to work across diverse domains, including Telecom, Licensing & Inventory, and Construction. Every role has taught me something new—not just about technology, but about people, collaboration, and the importance of building solutions that make a real difference.
+Over the years, I've had the opportunity to work across diverse domains, including Telecom, Licensing & Inventory, and Construction. Every role has taught me something new, not just about technology, but about people, collaboration, and the importance of building solutions that make a real difference.
 
 At my core, I'm someone who enjoys solving problems. Whether it's a complex technical challenge, improving the way teams work together, or helping an engineer navigate the next step in their career, I find purpose in making things a little better than they were before.
 
