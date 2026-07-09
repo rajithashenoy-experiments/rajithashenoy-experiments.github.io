@@ -41,9 +41,14 @@ a:hover { text-decoration: underline; }
 }
 
 .site-title {
-  font-weight: 700;
-  font-size: 1.1rem;
-  color: var(--text);
+  display: inline-block;
+  line-height: 0;
+}
+
+.site-logo {
+  display: block;
+  height: 72px;
+  width: auto;
 }
 
 .nav-links a {
