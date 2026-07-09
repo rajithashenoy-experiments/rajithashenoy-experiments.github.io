@@ -43,12 +43,16 @@ a:hover { text-decoration: underline; }
 .site-title {
   display: inline-block;
   line-height: 0;
+  flex-shrink: 1;
+  min-width: 0;
 }
 
 .site-logo {
   display: block;
-  height: 72px;
-  width: auto;
+  width: clamp(140px, 38vw, 260px);
+  height: auto;
+  max-width: 100%;
+  object-fit: contain;
 }
 
 .nav-links a {
