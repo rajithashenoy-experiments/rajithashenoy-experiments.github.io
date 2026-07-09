@@ -27,7 +27,7 @@ a:hover { text-decoration: underline; }
 
 .site-header {
   border-bottom: 1px solid var(--border);
-  padding: 1.5rem 1.5rem;
+  padding: 1rem 1.5rem;
 }
 
 .site-header nav {
@@ -49,7 +49,7 @@ a:hover { text-decoration: underline; }
 
 .site-logo {
   display: block;
-  width: clamp(140px, 38vw, 260px);
+  width: clamp(80px, 18vw, 120px);
   height: auto;
   max-width: 100%;
   object-fit: contain;
